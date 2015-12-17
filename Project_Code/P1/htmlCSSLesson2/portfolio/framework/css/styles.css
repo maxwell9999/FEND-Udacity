@@ -1,0 +1,12 @@
+* { /*consitent font*/
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  float: left;
+}
