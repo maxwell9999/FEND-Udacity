@@ -1,6 +1,4 @@
-* {
-    border: 1px solid red !important;
-}
+
 
 * {
     -webkit-box-sizing: border-box;
@@ -11,13 +9,14 @@
 
 .grid {
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 700px;
     width: 100%;
 }
 
 .row {
     width: 100%;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     /* boxes fill each line */
     display: flex; 
     flex-wrap: wrap;
