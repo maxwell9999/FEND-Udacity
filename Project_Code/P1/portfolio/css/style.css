@@ -1,0 +1,16 @@
+/** {
+	outline: 1px solid red !important;
+}*/
+
+.tile-text {
+	font-size: 2em;
+}
+
+.tile-subtext {
+	font-size: 1em;
+}
+
+.my-face {
+	max-width: 10em;
+	max-height: 10em;
+}
