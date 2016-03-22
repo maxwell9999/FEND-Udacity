@@ -3,16 +3,21 @@ header, section, nav {
    display: block;
 }
 
-.masthead, .navi-row, .featured-content {
+.masthead,
+.navi-row,
+.featured-content {
    margin-bottom: 2em;
 }
 
- .nclab-row, .navi-buttons, .contact-buttons {
+ .nclab-row,
+ .navi-buttons,
+ .contact-buttons {
    margin-bottom: 0.5em;
  }
 
 /** body spacing from top of page */
-.body, .nclab-row {
+.body,
+.nclab-row {
    margin-top: 2em;
 }
 
