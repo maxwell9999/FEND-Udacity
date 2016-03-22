@@ -1,12 +1,26 @@
-/** {
-	outline: 1px solid red !important;
-}*/
+/** ensure HTML5 support in browsers */
+header, section, nav {
+    display: block;
+}
 
+.masthead, .navi-row, .featured-content {
+   margin-bottom: 2em;
+}
 
-.featured-banner{
+ .nclab-row, .navi-buttons, .contact-buttons {
+   margin-bottom: 0.5em;
+ }
+
+/** body spacing from top of page */
+.body, .nclab-row {
+   margin-top: 2em;
+}
+
+.featured-banner {
    border-radius: 10px;
    color: #fff;
    background: linear-gradient(#3757d9,purple); 
+   margin-bottom: 2em;
 }
 
 .tile-text {
